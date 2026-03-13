@@ -1,4 +1,4 @@
-# arar-institute-of-archeology-ethnography-scraper
+# ARAR Collection 17 Scraper - Publications of the Institute of Archeology and Ethnography of NAS RA
 
 This repository contains a Python scraper designed to extract **metadata from the Pan-Armenian Digital Library (ARAR)**.
 
